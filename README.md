@@ -9,28 +9,26 @@ I'm available for freelance work, SaaS collaborations, and full-time opportuniti
 </p>
 
 <p>
-<a href="you7sse5f@gmail.com">
+<a href="mailto:you7sse5f@gmail.com">
   <img src="https://img.shields.io/badge/Hire%20Me-28a745?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="www.linkedin.com/in/youssef-mohamed-24250b342">
+<a href="https://www.linkedin.com/in/youssef-mo-hamed-/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
 ---
 
-<h3>🚀 Tech Stack</h3>
+<h3>🚀 Full Stack</h3>
 
 <p>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css"/>
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift"/>
-<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin"/>
 
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php"/>
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel"/>
@@ -40,6 +38,15 @@ I'm available for freelance work, SaaS collaborations, and full-time opportuniti
 <img src="https://img.shields.io/badge/-OAuth-3C3C3C?style=flat-square"/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb"/>
+</p>
+
+---
+
+<h3>🛠️ Other Skills</h3>
+
+<p>
+<img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift"/>
+<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin"/>
 
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
@@ -61,10 +68,17 @@ I'm available for freelance work, SaaS collaborations, and full-time opportuniti
 
 ---
 
+<h3>📊 GitHub Stats</h3>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+</p>
+
 ---
 
 <h3>👀 Profile Views</h3>
 
 <p>
-<img src="https://my-website-youssefmohamed.vercel.app/" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
