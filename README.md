@@ -1,7 +1,10 @@
 <h1>Hey! I'm Youssef 👋</h1>
 
 <p>
-Full Stack Software Engineer building scalable SaaS products, real-time systems, and modern web applications.
+Full Stack Software Engineer specializing in designing and building scalable SaaS platforms, real-time applications, and high-performance web systems.
+I focus on developing end-to-end solutions including frontend interfaces, backend architectures, APIs, and database systems, with a strong emphasis on scalability, clean architecture, and maintainability.
+Experienced in building real-time systems using modern web technologies, developing secure RESTful APIs, implementing authentication systems (JWT / OAuth), and deploying applications on cloud environments such as AWS.
+Passionate about turning complex business ideas into reliable, production-ready software with a focus on performance, user experience, and system design.
 </p>
 
 <p>
