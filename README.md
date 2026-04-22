@@ -23,21 +23,21 @@ Full Stack Software Engineer building scalable SaaS products, real-time systems,
 <h3>🚀 Full Stack (Core Skills)</h3>
 
 <p>
-<img src="https://img.shields.io/badge/🌐%20HTML5-E34F26?style=flat-square&logo=html5"/>
-<img src="https://img.shields.io/badge/🎨%20CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/⚡%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/⚛️%20React-45b8d8?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/⏭️%20Next.js-000000?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/🎯%20TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/%20HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/%20CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/%20React-45b8d8?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/%20Next.js-000000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/%20TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css"/>
 
-<img src="https://img.shields.io/badge/🐘%20PHP-777BB4?style=flat-square&logo=php"/>
-<img src="https://img.shields.io/badge/🔥%20Laravel-FF2D20?style=flat-square&logo=laravel"/>
-<img src="https://img.shields.io/badge/🟢%20Node.js-43853d?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/🔌%20REST%20API-FF6C37?style=flat-square"/>
-<img src="https://img.shields.io/badge/🗄️%20MySQL-4479A1?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/📱%20Mobile%20App%20Development-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤖%20Android%20(Kotlin)-7F52FF?style=flat-square&logo=kotlin"/>
-<img src="https://img.shields.io/badge/🍎%20iOS%20(Swift)-FA7343?style=flat-square&logo=swift"/>
+<img src="https://img.shields.io/badge/%20PHP-777BB4?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/%20Laravel-FF2D20?style=flat-square&logo=laravel"/>
+<img src="https://img.shields.io/badge/%20Node.js-43853d?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/%20REST%20API-FF6C37?style=flat-square"/>
+<img src="https://img.shields.io/badge/%20MySQL-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/%20Mobile%20App%20Development-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/%20Android%20(Kotlin)-7F52FF?style=flat-square&logo=kotlin"/>
+<img src="https://img.shields.io/badge/%20iOS%20(Swift)-FA7343?style=flat-square&logo=swift"/>
 </p>
 
 ---
