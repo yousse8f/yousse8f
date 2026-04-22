@@ -35,6 +35,9 @@ Full Stack Software Engineer building scalable SaaS products, real-time systems,
 <img src="https://img.shields.io/badge/🟢%20Node.js-43853d?style=flat-square&logo=node.js"/>
 <img src="https://img.shields.io/badge/🔌%20REST%20API-FF6C37?style=flat-square"/>
 <img src="https://img.shields.io/badge/🗄️%20MySQL-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/📱%20Mobile%20App%20Development-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖%20Android%20(Kotlin)-7F52FF?style=flat-square&logo=kotlin"/>
+<img src="https://img.shields.io/badge/🍎%20iOS%20(Swift)-FA7343?style=flat-square&logo=swift"/>
 </p>
 
 ---
