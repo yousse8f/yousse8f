@@ -9,10 +9,10 @@ I'm available for freelance work, SaaS collaborations, and full-time opportuniti
 </p>
 
 <p>
-<a href="mailto:your@email.com">
+<a href="you7sse5f@gmail.com">
   <img src="https://img.shields.io/badge/Hire%20Me-28a745?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/your-profile">
+<a href="www.linkedin.com/in/youssef-mohamed-24250b342">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
@@ -61,17 +61,10 @@ I'm available for freelance work, SaaS collaborations, and full-time opportuniti
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</p>
-
 ---
 
 <h3>👀 Profile Views</h3>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://my-website-youssefmohamed.vercel.app/" />
 </p>
