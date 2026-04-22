@@ -8,8 +8,13 @@ Full Stack Software Engineer building scalable SaaS products, real-time systems,
 <a href="mailto:you7sse5f@gmail.com">
   <img src="https://img.shields.io/badge/📩%20Hire%20Me-28a745?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/youssef-mo-hamed-/">
   <img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://my-website-youssefmohamed.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
 
@@ -34,16 +39,16 @@ Full Stack Software Engineer building scalable SaaS products, real-time systems,
 
 ---
 
-<h3>🛠️ Tools & DevOps (Rated)</h3>
+<h3>🛠️ Tools & DevOps</h3>
 
 <p>
-<img src="https://img.shields.io/badge/⭐%20Git%20&%20GitHub-181717?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/⭐⭐⭐⭐%20Docker-2496ED?style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/⭐⭐⭐%20AWS-232F3E?style=flat-square&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/⭐⭐⭐⭐%20CI/CD-2088FF?style=flat-square&logo=github-actions"/>
-<img src="https://img.shields.io/badge/⭐⭐⭐%20Figma-F24E1E?style=flat-square&logo=figma"/>
-<img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐%20Postman-FF6C37?style=flat-square&logo=postman"/>
-<img src="https://img.shields.io/badge/⭐⭐⭐⭐%20cPanel-FF6C2C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman"/>
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square"/>
 </p>
 
 ---
@@ -51,19 +56,10 @@ Full Stack Software Engineer building scalable SaaS products, real-time systems,
 <h3>🤖 AI & Learning</h3>
 
 <p>
-<img src="https://img.shields.io/badge/🤖%20AI%20Fundamentals-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/🧠%20Machine%20Learning-102230?style=flat-square"/>
-<img src="https://img.shields.io/badge/📊%20Data%20Analysis-4CAF50?style=flat-square"/>
-<img src="https://img.shields.io/badge/⚙️%20Automation-FF9800?style=flat-square"/>
-</p>
-
----
-
-<h3>📊 GitHub Stats</h3>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=youse8f&show_icons=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youse8f&layout=compact&hide_border=true" />
+<img src="https://img.shields.io/badge/AI%20Fundamentals-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-FF9800?style=flat-square"/>
 </p>
 
 ---
